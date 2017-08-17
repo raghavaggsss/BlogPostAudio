@@ -30,7 +30,7 @@ First, we'll talk about some basic features of an audio file. Intuitively, featu
 
 - Extracting musical features of often more complicated and involves dealing directly with an **audio spectrogram**.  Below is a typical spectrogram of an audio track plotted using [Sonic Visualiser](http://www.sonicvisualiser.org/).
 
-![enter image description here](https://doc-0k-5k-docs.googleusercontent.com/docs/securesc/kjgkmthj3i3paitkpd8rd3s5ilks3s7d/c41k2ul5i6c9qmagcccgf47chdci27ef/1502964000000/05786851616636697596/05786851616636697596/0B-adnOtqAB4AYUh6WWRJaUZOUDA?e=download&nonce=799hlpi27tu2q&user=05786851616636697596&hash=665o3hrg99315d69f5v7tb074e6hqnn5)
+[enter image description here](https://doc-0k-5k-docs.googleusercontent.com/docs/securesc/kjgkmthj3i3paitkpd8rd3s5ilks3s7d/c41k2ul5i6c9qmagcccgf47chdci27ef/1502964000000/05786851616636697596/05786851616636697596/0B-adnOtqAB4AYUh6WWRJaUZOUDA?e=download&nonce=799hlpi27tu2q&user=05786851616636697596&hash=665o3hrg99315d69f5v7tb074e6hqnn5)
 
 
 

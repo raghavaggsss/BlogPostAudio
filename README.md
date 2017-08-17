@@ -104,6 +104,7 @@ Scipy is an open source numerical and scientific computation library for python 
 
 ![alt text](http://imgur.com/K4liL3B "FFT wave file")
 
+
 <above steps link to FFT using scipy>
 Treating this as the input wave, the above steps can be repeated to get the FFT of any audio file.
 

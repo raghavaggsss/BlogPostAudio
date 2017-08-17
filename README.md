@@ -7,9 +7,7 @@ Audio processing and comprehension is a very interesting and increasingly popula
 </n>
 
 >*You can read about one of the most fundamental audio signal processing problem **"The cocktail party problem" ** here-*
- [The Cocktail Party Problem](http://www.brainfacts.org/sensing-thinking-behaving/awareness-and-attention/articles/2013/the-cocktail-party-problem/)
- 
- 
+ [The Cocktail Party Problem](http://www.brainfacts.org/sensing-thinking-behaving/awareness-and-attention/articles/2013/the-cocktail-party-problem/) <\n>
  >*An interesting solution to the same can be found here -*
  [Deep learning to solve Cocktail Party Problem](https://www.technologyreview.com/s/537101/deep-learning-machine-solves-the-cocktail-party-problem/)  *(Yes deep learning is magical!)*
  

@@ -30,7 +30,7 @@ First, we'll talk about some basic features of an audio file. Intuitively, featu
 
 - Extracting musical features of often more complicated and involves dealing directly with an **audio spectrogram**.  Below is a typical spectrogram of an audio track plotted using [Sonic Visualiser](http://www.sonicvisualiser.org/).
 
-![alt text](http://imgur.com/Hk3MI1g "Spectrogram")
+![alt text](http://imgur.com/Hk3MI1g.jpg "Spectrogram")
 
 
 
@@ -51,9 +51,9 @@ Fast Fourier Transformation (FFT)
 To analyse a complex wave, we break it down into various simple sinusoidal waves with different frequencies such that the superimposition of these simple waves give back the original wave. 
 Following is a **Discrete Fourier Transform (DFT)** of a signal x(t<sub>n</sub>).
 
-![alt text](http://imgur.com/2zNT7zh "DFT Equation")
+![alt text](http://imgur.com/2zNT7zh.png "DFT Equation")
 
-![alt text](http://imgur.com/ukBWTN8 "Symbols")
+![alt text](http://imgur.com/ukBWTN8.png "Symbols")
 
 FFT is an efficient algorithm to calculate the DFT of a wave. DFT takes **N<sup>2</sup>** operations whereas FFT takes only **Nlog<sub>2</sub>N** operations.
 </n>
@@ -101,7 +101,7 @@ Scipy is an open source numerical and scientific computation library for python 
 ```
 
 
-![alt text](http://imgur.com/K4liL3B "FFT wave file")
+![alt text](http://imgur.com/K4liL3B.png "FFT wave file")
 
 
 <above steps link to FFT using scipy>

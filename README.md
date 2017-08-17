@@ -30,9 +30,7 @@ First, we'll talk about some basic features of an audio file. Intuitively, featu
 
 - Extracting musical features of often more complicated and involves dealing directly with an **audio spectrogram**.  Below is a typical spectrogram of an audio track plotted using [Sonic Visualiser](http://www.sonicvisualiser.org/).
 
-![alt text][spec]
-
-[spec]: (https://doc-0k-5k-docs.googleusercontent.com/docs/securesc/kjgkmthj3i3paitkpd8rd3s5ilks3s7d/c41k2ul5i6c9qmagcccgf47chdci27ef/1502964000000/05786851616636697596/05786851616636697596/0B-adnOtqAB4AYUh6WWRJaUZOUDA?e=download&nonce=799hlpi27tu2q&user=05786851616636697596&hash=665o3hrg99315d69f5v7tb074e6hqnn5)
+![alt text](https://doc-0k-5k-docs.googleusercontent.com/docs/securesc/kjgkmthj3i3paitkpd8rd3s5ilks3s7d/c41k2ul5i6c9qmagcccgf47chdci27ef/1502964000000/05786851616636697596/05786851616636697596/0B-adnOtqAB4AYUh6WWRJaUZOUDA?e=download&nonce=799hlpi27tu2q&user=05786851616636697596&hash=665o3hrg99315d69f5v7tb074e6hqnn5)
 
 
 
@@ -80,7 +78,7 @@ Scipy is an open source numerical and scientific computation library for python 
 >>> plt.show()
 ```
 <center>
-![FFT Plot](https://doc-0k-5k-docs.googleusercontent.com/docs/securesc/kjgkmthj3i3paitkpd8rd3s5ilks3s7d/n0oa6nqaq7a6ro5nv33273bkeoue5mm8/1502971200000/05786851616636697596/05786851616636697596/0B-adnOtqAB4ANHBRSzRFNGozVWM?e=download)
+![alt text](http://i.imgur.com/NPoqeJZ.png)
 </center>
 
 - Clearly the graph shows the distribution of the signal in various frequencies and matches our intuition because the input wave is essentially a combination of two simple waves of frequency 50Hz and 80Hz each.

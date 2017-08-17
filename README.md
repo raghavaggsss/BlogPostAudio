@@ -47,6 +47,7 @@ First, we'll talk about some basic features of an audio file. Intuitively, featu
 
 ----------------------------------------------
 Fast Fourier Transformation (FFT)
+-----------
 
 
 To analyse a complex wave, we break it down into various simple sinusoidal waves with different frequencies such that the superimposition of these simple waves give back the original wave. 

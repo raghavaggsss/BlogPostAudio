@@ -10,7 +10,7 @@ Audio processing and comprehension is a very interesting and increasingly popula
  [The Cocktail Party Problem](http://www.brainfacts.org/sensing-thinking-behaving/awareness-and-attention/articles/2013/the-cocktail-party-problem/)
  
  
- *An interesting solution to the same can be found here -*
+ >*An interesting solution to the same can be found here -*
  [Deep learning to solve Cocktail Party Problem](https://www.technologyreview.com/s/537101/deep-learning-machine-solves-the-cocktail-party-problem/)  *(Yes deep learning is magical!)*
  
 

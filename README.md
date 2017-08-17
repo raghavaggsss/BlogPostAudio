@@ -2,9 +2,7 @@
 ================
 
 Audio processing and comprehension is a very interesting and increasingly popular as well as useful area of study. A lot of methods have been devised and even more are being studied currently. Its applications are wide such as Youtube auto captions, PlayMusic lyrics, Shazam, Smule, Siri, Cortana, Google Speech to Text and many more. The purpose of this blog is to get a newbie acquainted to some of the very basic procedures to extract features from an audio recording or a sound track.
-</n> 
-</n>
-</n>
+
 
 >*You can read about one of the most fundamental audio signal processing problem **"The cocktail party problem" ** here-*
  [The Cocktail Party Problem](http://www.brainfacts.org/sensing-thinking-behaving/awareness-and-attention/articles/2013/the-cocktail-party-problem/)
@@ -56,7 +54,7 @@ Following is a **Discrete Fourier Transform (DFT)** of a signal x(t<sub>n</sub>)
 ![alt text](http://imgur.com/ukBWTN8.png "Symbols")
 
 FFT is an efficient algorithm to calculate the DFT of a wave. DFT takes **N<sup>2</sup>** operations whereas FFT takes only **Nlog<sub>2</sub>N** operations.
-</n>
+
 
 ----------------------
 <h4>FFT Implementation in Python using <b>Scipy</b></h4>

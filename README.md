@@ -81,7 +81,6 @@ Scipy is an open source numerical and scientific computation library for python 
 
 ![alt text](http://i.imgur.com/NPoqeJZ.png "FFT")
 
-
 - Clearly the graph shows the distribution of the signal in various frequencies and matches our intuition because the input wave is essentially a combination of two simple waves of frequency 50Hz and 80Hz each.
 
 --------------

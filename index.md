@@ -119,13 +119,12 @@ Scipy is an open source numerical and scientific computation library for python 
 
 
 <above steps link to FFT using scipy>
-Treating this as the input wave, the above steps can be repeated to get the FFT of any audio file. You can also find the spectrogram by performing the above analysis for appropriate window size and plotting the results.
+Treating this as the input wave, the above steps can be repeated to get the FFT of any audio file. You can also find the spectrogram by performing the above analysis for appropriate window size and plotting the results.  
 
 
 
 
-Conclusion
-----------
+<h3>Conclusion</h3>
 
 
 I hope this post gives you a brief overview of how audio signal processing is done. This is just the surface of the subject and much more sophisticated code is used in production but this much knowledge can be used to solve seemingly complex problems. Once we have the wave and we know how to calculate it's FFT, we can plot spectrograms, find MOOCs and a whole lot of things.

@@ -130,7 +130,7 @@ Treating this as the input wave, the above steps can be repeated to get the FFT 
 I hope this post gives you a brief overview of how audio signal processing is done. This is just the surface of the subject and much more sophisticated code is used in production but this much knowledge can be used to solve seemingly complex problems. Once we have the wave and we know how to calculate it's FFT, we can plot spectrograms, find MOOCs and a whole lot of things.  
 
 
-<h3>Interesting applications</h3>
+**Interesting applications**
 
 
 - Separating components of a song - https://www.sisec17.audiolabs-erlangen.de/#/   *(Website hosting samples from various source separation algorithms)*

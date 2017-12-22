@@ -134,13 +134,16 @@ I hope this post gives you a brief overview of how audio signal processing is do
 <h3>Interesting applications</h3>
 
 
->Separating components of a song [SISEC](https://www.sisec17.audiolabs-erlangen.de/#/)
+>Separating components of a song -
+ [SISEC](https://www.sisec17.audiolabs-erlangen.de/#/)
 
 
->Google's project on Music Generation [Magenta](https://magenta.tensorflow.org/welcome-to-magenta)
+>Google's project on Music Generation - 
+[Magenta](https://magenta.tensorflow.org/welcome-to-magenta)
 
 
->Small web implementations of ASP with open source code on github [Demos](https://webaudiodemos.appspot.com/)
+>Small web implementations of ASP with open source code on github - 
+[Demos](https://webaudiodemos.appspot.com/)
 
 
 Github - [Github](https://github.com/cwilso)
